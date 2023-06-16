@@ -18,10 +18,13 @@ table{
     width:100%;
     margin:-6px;
 }
-
-h1, h2, h4{
+td{
+    vertical-align:top;
+}
+h1, h2, h3{
     text-align:center;
 }
 li{
-    list-style:none;
+    list-style:circle;
+
 }
