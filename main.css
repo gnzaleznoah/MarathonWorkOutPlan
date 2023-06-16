@@ -9,6 +9,7 @@ html{
 }
 section{
     padding:5px;
+    margin-bottom:10px;
 }
 table, th, td, tr{
     border: 1px solid #000;
